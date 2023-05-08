@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pac-man Ghost Inky
+* source:	https://sketchfab.com/3d-models/pac-man-ghost-inky-b6b65cc55e1b4cfdb64e18edc133f8fd
+* author:	SantMax1.0 (https://sketchfab.com/SantMax1.0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pac-man Ghost Inky" (https://sketchfab.com/3d-models/pac-man-ghost-inky-b6b65cc55e1b4cfdb64e18edc133f8fd) by SantMax1.0 (https://sketchfab.com/SantMax1.0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
