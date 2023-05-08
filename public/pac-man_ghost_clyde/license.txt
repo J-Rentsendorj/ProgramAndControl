@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pac-man Ghost Clyde
+* source:	https://sketchfab.com/3d-models/pac-man-ghost-clyde-2e3562b101ce41abb2a3e9d1508e9f03
+* author:	SantMax1.0 (https://sketchfab.com/SantMax1.0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pac-man Ghost Clyde" (https://sketchfab.com/3d-models/pac-man-ghost-clyde-2e3562b101ce41abb2a3e9d1508e9f03) by SantMax1.0 (https://sketchfab.com/SantMax1.0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

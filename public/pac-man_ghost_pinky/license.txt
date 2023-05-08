@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pac-man Ghost Pinky
+* source:	https://sketchfab.com/3d-models/pac-man-ghost-pinky-4ca9e18ed5c84ef68cccbea7602c873c
+* author:	SantMax1.0 (https://sketchfab.com/SantMax1.0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pac-man Ghost Pinky" (https://sketchfab.com/3d-models/pac-man-ghost-pinky-4ca9e18ed5c84ef68cccbea7602c873c) by SantMax1.0 (https://sketchfab.com/SantMax1.0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

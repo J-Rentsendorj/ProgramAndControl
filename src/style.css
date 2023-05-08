@@ -1,0 +1,209 @@
+@font-face {
+    font-family: 'Arcade';
+    src: url('/arcade.woff') format('truetype');
+}
+
+html,
+body,
+#root {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 0, 0);
+    font-family: 'Arcade', sans-serif;
+    color: white;
+}
+
+/**
+ * Controls
+ */
+.controls {
+    position: absolute;
+    bottom: 10%;
+    left: 0;
+    width: 100%;
+}
+
+.controls .raw {
+    display: flex;
+    justify-content: center;
+}
+
+.controls .key {
+    width: 40px;
+    height: 40px;
+    margin: 4px;
+    border: 2px solid #ffffff;
+    background: #00000044;
+}
+
+.controls .key.large {
+    width: 144px;
+}
+
+.controls .key.active {
+    background: #ffffff99;
+}
+
+/**
+ * Mobile Controls 
+ */
+@media (max-width: 768px) {
+
+    .mobile-controls {
+        position: fixed;
+        bottom: 10%;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .mobile-controls .raw {
+        display: flex;
+        justify-content: center;
+    }
+
+    .mobile-controls .key {
+        width: 40px;
+        height: 40px;
+        margin: 4px;
+        border: 2px solid #ffffff;
+        background: #00000044;
+        border-radius: 4px;
+        touch-action: none;
+    }
+
+    .mobile-controls .key.large {
+        width: 144px;
+    }
+
+    .mobile-controls .key.active {
+        background: #ffffff99;
+    }
+}
+
+
+/* Video */
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.close-video {
+    position: absolute;
+    bottom: 17px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.close-video,
+.play-video {
+    font-family: 'Arcade', sans-serif;
+    font-weight: bold;
+    background-color: transparent;
+    color: rgb(226, 126, 80);
+}
+
+.close-video:hover,
+.play-video:hover {
+    color: yellow;
+}
+
+.play-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: none;
+    cursor: pointer;
+    z-index: 1;
+    font-size: 50px;
+    margin: 0;
+}
+
+.fa-volume-up {
+    color: rgb(226, 126, 80);
+    margin-right: 5px;
+}
+
+.volume-slider {
+    width: 100px;
+}
+
+.text-container {
+    position: absolute;
+    top: 10%;
+    right: 20%;
+    z-index: 1;
+    text-align: right;
+    color: rgb(226, 126, 80);
+}
+
+.text-container h1 {
+    margin: 0;
+    margin-right: 14%;
+    font-size: 20px;
+}
+
+.text-container h2 {
+    margin: 0;
+    margin-right: 6%;
+    font-size: 20px;
+}
+
+.text-container h3 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.loading-page {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+}
+
+.progress {
+    display: flex;
+    justify-content: center;
+}
+
+.progress-text {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.5rem;
+    font-size: 18px;
+    color: white;
+}
+
+.volume-icon {
+    width: 25px;
+    height: 25px;
+}
+
+.volume-control {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    z-index: 1000;
+}
