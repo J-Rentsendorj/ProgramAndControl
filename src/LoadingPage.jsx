@@ -5,7 +5,7 @@ const LoadingPage = ({ progress }) => {
         <div className="loading-page">
             <img src="/pacman.gif" alt="Loading..." />
             <div className='volume-warning'>
-                <h3>Volume Warning !</h3>
+                <h3>Volume&nbsp;&nbsp;&nbsp;Warning&nbsp;&nbsp;&nbsp;!</h3>
             </div>
             <div className="progress" style={{ width: `${progress}%` }}>
                 {progress}%
