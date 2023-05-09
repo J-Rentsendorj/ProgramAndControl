@@ -47,7 +47,7 @@ export default function VideoPlayer({ onVideoEnded }) {
                 <div className="video-container">
                     <video
                         ref={videoRef}
-                        src="assets/pacman_intro.mp4"
+                        src="/pacman_intro.mp4"
                         type="video/mp4"
                         onEnded={handleVideoEnd}
                         playsInline
@@ -64,7 +64,7 @@ export default function VideoPlayer({ onVideoEnded }) {
                 </div>
             ) : null}
 
-            <audio ref={audioRef} src="assets/pacman_cut.mp3" type="audio/mpeg" loop></audio>
+            <audio ref={audioRef} src="/pacman_cut.mp3" type="audio/mpeg" loop></audio>
 
             <VolumeControl audioRef={audioRef} videoRef={videoRef} />
         </>
