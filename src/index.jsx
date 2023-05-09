@@ -26,7 +26,7 @@ function Index() {
                 }
                 return prevProgress + 10; // rate of progress
             });
-        }, 1000); // frequency of progress updates
+        }, 1500); // frequency of progress updates
 
         return () => clearInterval(timer);
     }, []);
