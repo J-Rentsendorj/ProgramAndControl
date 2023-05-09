@@ -6,7 +6,7 @@ import { KeyboardControls } from '@react-three/drei';
 import Interface from './Interface.jsx';
 import VideoPlayer from './VideoPlayer';
 import { Suspense, useEffect, useState } from 'react';
-import LoadingPage from './loadingPage';
+import LoadingPage from './LoadingPage';
 
 
 const root = ReactDOM.createRoot(document.querySelector('#root'));
