@@ -8,4 +8,8 @@ Pacman inspired React Three Fiber application. The game uses several dependencie
 
 #### Special Thanks to Bruno Simon
 
-![program-and-control](https://github.com/J-Rentsendorj/ProgramAndControl/assets/99370192/c93a544c-7683-4325-8f75-95f201da8515)
+
+
+
+https://github.com/J-Rentsendorj/ProgramAndControl/assets/99370192/1d94aa8a-35ae-46a9-a52d-b13900d37bed
+
