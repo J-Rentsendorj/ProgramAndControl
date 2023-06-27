@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './style.css';
-import volume_on from './assets/volume_on.jpeg'
-import volume_off from './assets/volume_off.jpeg'
+import volume_on from './assets/volume_on.png'
+import volume_off from './assets/volume_off.png'
 
 export default function VolumeControl({ audioRef, videoRef }) {
 
