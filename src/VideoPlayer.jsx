@@ -47,7 +47,7 @@ export default function VideoPlayer({ onVideoEnded }) {
                 <div className="video-container">
                     <video
                         ref={videoRef}
-                        src="/pacman_intro.mp4"
+                        src="/pacman_intro_cut.mp4"
                         type="video/mp4"
                         onEnded={handleVideoEnd}
                         playsInline
