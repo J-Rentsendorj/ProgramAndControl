@@ -63,3 +63,8 @@ For any inquiries or collaboration, feel free to reach out:
 **Email:** bajka.rentsendorj@outlook.com
 
 
+https://github.com/user-attachments/assets/523ce56f-aa15-4591-a039-d46c99e06a89
+
+
+
+
