@@ -6,7 +6,7 @@ An interactive 3D web application built using **JavaScript, React.js, React Thre
 [Program And Control - Deployed Link](https://program-and-control.vercel.app/)
 
 ## Features
-- 📦 **3D Model Integration:** Imported and integrated 3D models to enhance visual realism and interactivity.  
+- 📦 **3D Model Integration:** Imported and integrated 3D models to enhance visual experience and interactivity.  
 - 🌐 **Responsive Design:** Optimized rendering for various devices and screen sizes, ensuring a smooth user experience.  
 - 🎮 **Interactive Controls:** Implemented intuitive user interaction mechanisms, including object manipulation and camera controls.  
 - 📁 **Version Control & Collaboration:** Utilized GitHub for project management, maintaining a clear version history and documentation.  
