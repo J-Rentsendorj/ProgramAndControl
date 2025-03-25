@@ -60,8 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or collaboration, feel free to reach out:  
 **LinkedIn:** [Baljinnyam Rentsendorj](https://www.linkedin.com/in/baljinnyam-rentsendorj/)  
 **GitHub:** [J-Rentsendorj](https://github.com/J-Rentsendorj)  
-**Email:** bajka.rentsendorj@outlook.com
-
 
 https://github.com/user-attachments/assets/523ce56f-aa15-4591-a039-d46c99e06a89
 
